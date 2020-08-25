@@ -50,7 +50,7 @@
   ],
   "license": "MIT",
   "main": "dist/latest/index.js",
-  "name": "gitlab",
+  "name": "gitlab2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MacroLove/node-gitlab2.git"
