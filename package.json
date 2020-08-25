@@ -3,9 +3,6 @@
     "name": "Macro Zhao",
     "email": "stevejobs.js@gmail.com"
   },
-  "bugs": {
-    "url": "https://github.com/jdalrymple/node-gitlab/issues"
-  },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.47",
     "humps": "^2.0.1",
